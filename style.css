@@ -79,7 +79,7 @@ header{
 }
 
 .navbar li a{
-    font-size: 1rerm;
+    font-size: 1rem;
     font-weight: 500;
     color: var(--bg-color);
 }
